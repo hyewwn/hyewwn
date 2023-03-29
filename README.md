@@ -1,5 +1,7 @@
 ### Hi, I'm Hyewon Ryu👋
 
+##### I'm student of Korea University
+
 <!--
 **hyewwn/hyewwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
