@@ -1,6 +1,9 @@
 ### Hi, I'm Hyewon Ryu👋
 
-##### I'm student of Korea University
+#### I'm student of Korea University and majoring in industrial enginnering.
+#### These days, I am interested in NLP, but I am studying overall Machine Learning, Deep Learning, Artificial Intelligence.
+
+
 
 <!--
 **hyewwn/hyewwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
