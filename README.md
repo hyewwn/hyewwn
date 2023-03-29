@@ -1,7 +1,8 @@
 ### Hi, I'm Hyewon Ryu👋
 
 #### I'm student of Korea University and majoring in industrial enginnering.
-#### These days, I am interested in NLP, but I am studying overall Machine Learning, Deep Learning, Artificial Intelligence.
+These days, I am interested in NLP, but I am studying overall Machine Learning, Deep Learning, Artificial Intelligence.
+
 
 
 
