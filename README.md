@@ -2,7 +2,8 @@
 
 #### I'm student of Korea University and majoring in industrial engineering.
 These days, I am interested in NLP, but I am studying overall Machine Learning, Deep Learning, Artificial Intelligence.
-Blog Link: (click)[https://hyewwn.github.io/]
+
+Blog Link: [click](https://hyewwn.github.io/)
 
 
 
