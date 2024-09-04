@@ -35,7 +35,7 @@ My Blog: [click](https://hyewwn.github.io/)
 
 > `2023.03~2023.06`
 >
-> **[Selected as Best]** Domain Generalization in Large Language Models focusing on ABSA task
+> **[🥇Selected as Best]** Domain Generalization in Large Language Models focusing on ABSA task
 
 
 
