@@ -11,14 +11,6 @@
 </div>
 
 
-## Hi, I'm Hyewon Ryu👋
-
-#### I'm undergraduate student of Korea University and majoring in industrial engineering.
-These days, I am interested in Graph Neural Networks' diverse adaptation and Natural Language Processing tasks. But I'm also studying Machine Learning, Deep Learning, and Artificial Intelligence broadly and I enjoy learning both deeply and widely.
-
-My Blog: [click](https://hyewwn.github.io/)
-
-
 ## 🛠️ Main Projects
 > `2024.07~2024.08`
 >
